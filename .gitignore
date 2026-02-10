@@ -1,0 +1,9 @@
+data/
+warehouse/
+output/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.parquet
+*.xlsx
+*.csv
